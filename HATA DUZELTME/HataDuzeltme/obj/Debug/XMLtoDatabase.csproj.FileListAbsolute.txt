@@ -1,0 +1,29 @@
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\XML to Database\XMLtoDatabase\XMLtoDatabase\bin\Debug\XMLtoDatabase.exe.config
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\XML to Database\XMLtoDatabase\XMLtoDatabase\bin\Debug\XMLtoDatabase.exe
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\XML to Database\XMLtoDatabase\XMLtoDatabase\bin\Debug\XMLtoDatabase.pdb
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\XML to Database\XMLtoDatabase\XMLtoDatabase\obj\Debug\XMLtoDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\XML to Database\XMLtoDatabase\XMLtoDatabase\obj\Debug\XMLtoDatabase.Form1.resources
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\XML to Database\XMLtoDatabase\XMLtoDatabase\obj\Debug\XMLtoDatabase.Properties.Resources.resources
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\XML to Database\XMLtoDatabase\XMLtoDatabase\obj\Debug\XMLtoDatabase.csproj.GenerateResource.Cache
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\XML to Database\XMLtoDatabase\XMLtoDatabase\obj\Debug\XMLtoDatabase.exe
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\XML to Database\XMLtoDatabase\XMLtoDatabase\obj\Debug\XMLtoDatabase.pdb
+C:\github\XMLtoDatabase\XMLtoDatabase\bin\Debug\XMLtoDatabase.exe.config
+C:\github\XMLtoDatabase\XMLtoDatabase\bin\Debug\XMLtoDatabase.exe
+C:\github\XMLtoDatabase\XMLtoDatabase\bin\Debug\XMLtoDatabase.pdb
+C:\github\XMLtoDatabase\XMLtoDatabase\obj\Debug\XMLtoDatabase.csprojAssemblyReference.cache
+C:\github\XMLtoDatabase\XMLtoDatabase\obj\Debug\XMLtoDatabase.Form1.resources
+C:\github\XMLtoDatabase\XMLtoDatabase\obj\Debug\XMLtoDatabase.Properties.Resources.resources
+C:\github\XMLtoDatabase\XMLtoDatabase\obj\Debug\XMLtoDatabase.csproj.GenerateResource.cache
+C:\github\XMLtoDatabase\XMLtoDatabase\obj\Debug\XMLtoDatabase.csproj.CoreCompileInputs.cache
+C:\github\XMLtoDatabase\XMLtoDatabase\obj\Debug\XMLtoDatabase.exe
+C:\github\XMLtoDatabase\XMLtoDatabase\obj\Debug\XMLtoDatabase.pdb
+C:\github\toDatabase\XMLtoDatabase\bin\Debug\XMLtoDatabase.exe.config
+C:\github\toDatabase\XMLtoDatabase\bin\Debug\XMLtoDatabase.exe
+C:\github\toDatabase\XMLtoDatabase\bin\Debug\XMLtoDatabase.pdb
+C:\github\toDatabase\XMLtoDatabase\obj\Debug\XMLtoDatabase.csprojAssemblyReference.cache
+C:\github\toDatabase\XMLtoDatabase\obj\Debug\XMLtoDatabase.Form1.resources
+C:\github\toDatabase\XMLtoDatabase\obj\Debug\XMLtoDatabase.Properties.Resources.resources
+C:\github\toDatabase\XMLtoDatabase\obj\Debug\XMLtoDatabase.csproj.GenerateResource.cache
+C:\github\toDatabase\XMLtoDatabase\obj\Debug\XMLtoDatabase.csproj.CoreCompileInputs.cache
+C:\github\toDatabase\XMLtoDatabase\obj\Debug\XMLtoDatabase.exe
+C:\github\toDatabase\XMLtoDatabase\obj\Debug\XMLtoDatabase.pdb

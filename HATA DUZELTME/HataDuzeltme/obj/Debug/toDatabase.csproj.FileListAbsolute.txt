@@ -1,0 +1,10 @@
+C:\github\toDatabase\XMLtoDatabase\bin\Debug\XMLtoDatabase.exe.config
+C:\github\toDatabase\XMLtoDatabase\bin\Debug\XMLtoDatabase.exe
+C:\github\toDatabase\XMLtoDatabase\bin\Debug\XMLtoDatabase.pdb
+C:\github\toDatabase\XMLtoDatabase\obj\Debug\toDatabase.csprojAssemblyReference.cache
+C:\github\toDatabase\XMLtoDatabase\obj\Debug\XMLtoDatabase.Properties.Resources.resources
+C:\github\toDatabase\XMLtoDatabase\obj\Debug\toDatabase.csproj.GenerateResource.cache
+C:\github\toDatabase\XMLtoDatabase\obj\Debug\toDatabase.csproj.CoreCompileInputs.cache
+C:\github\toDatabase\XMLtoDatabase\obj\Debug\XMLtoDatabase.exe
+C:\github\toDatabase\XMLtoDatabase\obj\Debug\XMLtoDatabase.pdb
+C:\github\toDatabase\XMLtoDatabase\obj\Debug\HataDuzeltme.Form1.resources
